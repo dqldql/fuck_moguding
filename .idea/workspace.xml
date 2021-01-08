@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a56c70e-98d7-4a51-a39e-2478c069afaa" name="Default Changelist" comment="update README.md" />
+    <list default="true" id="8a56c70e-98d7-4a51-a39e-2478c069afaa" name="Default Changelist" comment="update README.md">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +93,7 @@
       <workItem from="1610123625930" duration="5676000" />
       <workItem from="1610129739852" duration="1860000" />
       <workItem from="1610131615078" duration="20000" />
-      <workItem from="1610131644336" duration="16000" />
+      <workItem from="1610131644336" duration="184000" />
     </task>
     <task id="LOCAL-00001" summary="add README.md and do some Refactor">
       <created>1610130726148</created>
@@ -156,14 +159,14 @@
       <screen x="0" y="0" width="2488" height="1440" />
     </state>
     <state x="924" y="455" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2488.1440@0.0.2488.1440" timestamp="1610123630460" />
-    <state x="1109" y="621" key="Github.ShareDialog" timestamp="1610129140826">
+    <state x="1109" y="621" key="Github.ShareDialog" timestamp="1610131698679">
       <screen x="0" y="0" width="2488" height="1440" />
     </state>
-    <state x="1109" y="621" key="Github.ShareDialog/0.0.2488.1440@0.0.2488.1440" timestamp="1610129140826" />
-    <state x="1039" y="342" key="Github.UntrackedFilesDialog" timestamp="1610129153892">
+    <state x="1109" y="621" key="Github.ShareDialog/0.0.2488.1440@0.0.2488.1440" timestamp="1610131698679" />
+    <state x="1111" y="396" width="409" height="758" key="Github.UntrackedFilesDialog" timestamp="1610131712374">
       <screen x="0" y="0" width="2488" height="1440" />
     </state>
-    <state x="1039" y="342" key="Github.UntrackedFilesDialog/0.0.2488.1440@0.0.2488.1440" timestamp="1610129153892" />
+    <state x="1111" y="396" width="409" height="758" key="Github.UntrackedFilesDialog/0.0.2488.1440@0.0.2488.1440" timestamp="1610131712374" />
     <state width="2445" height="407" key="GridCell.Tab.0.bottom" timestamp="1610131600334">
       <screen x="0" y="0" width="2488" height="1440" />
     </state>
@@ -184,10 +187,10 @@
       <screen x="0" y="0" width="2488" height="1440" />
     </state>
     <state x="745" y="364" key="SettingsEditor/0.0.2488.1440@0.0.2488.1440" timestamp="1610131659302" />
-    <state x="836" y="448" key="Vcs.Push.Dialog.v2" timestamp="1610131594165">
+    <state x="836" y="448" key="Vcs.Push.Dialog.v2" timestamp="1610131724168">
       <screen x="0" y="0" width="2488" height="1440" />
     </state>
-    <state x="836" y="448" key="Vcs.Push.Dialog.v2/0.0.2488.1440@0.0.2488.1440" timestamp="1610131594165" />
+    <state x="836" y="448" key="Vcs.Push.Dialog.v2/0.0.2488.1440@0.0.2488.1440" timestamp="1610131724168" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/fuck_moguding$fuck_moguding.coverage" NAME="fuck_moguding Coverage Results" MODIFIED="1610130917188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
