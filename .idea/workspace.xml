@@ -19,14 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a56c70e-98d7-4a51-a39e-2478c069afaa" name="Default Changelist" comment="update README.md">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/location.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loginfo.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tst.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8a56c70e-98d7-4a51-a39e-2478c069afaa" name="Default Changelist" comment="自动获取PlanID&#10;外置config文件&#10;qmsg酱推送支持&#10;签到位置可从json修改&#10;热更新位置（needs more debugs）">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fuck_moguding.py" beforeDir="false" afterPath="$PROJECT_DIR$/fuck_moguding.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +116,7 @@
       <workItem from="1610129739852" duration="1860000" />
       <workItem from="1610131615078" duration="20000" />
       <workItem from="1610131644336" duration="184000" />
-      <workItem from="1610293379820" duration="7384000" />
+      <workItem from="1610293379820" duration="7725000" />
     </task>
     <task id="LOCAL-00001" summary="add README.md and do some Refactor">
       <created>1610130726148</created>
@@ -152,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610131344552</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="自动获取PlanID&#10;外置config文件&#10;qmsg酱推送支持&#10;签到位置可从json修改&#10;热更新位置（needs more debugs）">
+      <created>1610300892582</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610300892582</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +178,8 @@
     <MESSAGE value="add README.md and do some Refactor" />
     <MESSAGE value="Add LICENSE" />
     <MESSAGE value="update README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
+    <MESSAGE value="自动获取PlanID&#10;外置config文件&#10;qmsg酱推送支持&#10;签到位置可从json修改&#10;热更新位置（needs more debugs）" />
+    <option name="LAST_COMMIT_MESSAGE" value="自动获取PlanID&#10;外置config文件&#10;qmsg酱推送支持&#10;签到位置可从json修改&#10;热更新位置（needs more debugs）" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1007" y="517" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610131146929">
@@ -188,6 +190,10 @@
       <screen x="0" y="0" width="2488" height="1440" />
     </state>
     <state x="924" y="455" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2488.1440@0.0.2488.1440" timestamp="1610123630460" />
+    <state x="241" y="125" key="DiffContextDialog" timestamp="1610300906697">
+      <screen x="0" y="0" width="2488" height="1440" />
+    </state>
+    <state x="241" y="125" key="DiffContextDialog/0.0.2488.1440@0.0.2488.1440" timestamp="1610300906697" />
     <state x="1109" y="621" key="Github.ShareDialog" timestamp="1610131698679">
       <screen x="0" y="0" width="2488" height="1440" />
     </state>
@@ -232,10 +238,10 @@
       <screen x="0" y="0" width="2488" height="1440" />
     </state>
     <state x="745" y="364" key="SettingsEditor/0.0.2488.1440@0.0.2488.1440" timestamp="1610131659302" />
-    <state x="836" y="448" key="Vcs.Push.Dialog.v2" timestamp="1610300750295">
+    <state x="836" y="448" key="Vcs.Push.Dialog.v2" timestamp="1610300907981">
       <screen x="0" y="0" width="2488" height="1440" />
     </state>
-    <state x="836" y="448" key="Vcs.Push.Dialog.v2/0.0.2488.1440@0.0.2488.1440" timestamp="1610300750295" />
+    <state x="836" y="448" key="Vcs.Push.Dialog.v2/0.0.2488.1440@0.0.2488.1440" timestamp="1610300907981" />
     <state width="1252" height="728" key="XDebugger.FullValuePopup" timestamp="1610300229504">
       <screen x="0" y="0" width="2488" height="1440" />
     </state>
@@ -256,16 +262,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tst.py</url>
-          <line>59</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/tst.py</url>
-          <line>61</line>
-          <option name="timeStamp" value="16" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/fuck_moguding.py</url>
           <line>100</line>

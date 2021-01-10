@@ -39,7 +39,7 @@ longitude为113.759033，latitude为34.774298。
   "latitude": "34.774298"
 }
 ```
-
+关于坐标的获取可以使用[高德地图坐标拾取工具](https://lbs.amap.com/console/show/picker)进行拾取。
 ## feature
 - [x] 自动获取PlanID
 - [x] 外置config文件
